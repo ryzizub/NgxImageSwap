@@ -2,7 +2,7 @@ import {BrowserModule} from '@angular/platform-browser';
 import {NgModule} from '@angular/core';
 
 import {AppComponent} from './app.component';
-import {NgxImageSwapModule} from 'projects/ngx-image-swap/src/public-api';
+import {NgxImageSwapModule} from 'ngx-image-swap';
 
 @NgModule({
   declarations: [
