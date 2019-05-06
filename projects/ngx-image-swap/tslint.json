@@ -1,0 +1,17 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [
+      true,
+      "attribute",
+      "ngxImageSwap",
+      "camelCase"
+    ],
+    "component-selector": [
+      true,
+      "element",
+      "ngx-image-swap",
+      "kebab-case"
+    ]
+  }
+}

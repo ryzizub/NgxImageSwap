@@ -1,0 +1,12 @@
+{
+  "name": "ngx-image-swap",
+  "version": "0.0.1",
+  "description": "A simple component for swaping two images on hover",
+  "author": "ryzizub",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "@angular/platform-browser": "~7.2.0",
+    "@angular/platform-browser-dynamic": "~7.2.0"
+  }
+}
