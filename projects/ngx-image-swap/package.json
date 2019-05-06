@@ -2,7 +2,23 @@
   "name": "ngx-image-swap",
   "version": "0.0.1",
   "description": "A simple component for swaping two images on hover",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryzizub/NgxImageSwap"
+  },
+  "bugs": {
+    "url": "https://github.com/ryzizub/NgxImageSwap/issues"
+  },
+  "homepage": "https://github.com/ryzizub/NgxImageSwap",
   "author": "ryzizub",
+  "keywords": [
+    "angular",
+    "javascript",
+    "typescript",
+    "image",
+    "swap",
+    "hover"
+  ],
   "peerDependencies": {
     "@angular/common": "^7.2.0",
     "@angular/core": "^7.2.0",
