@@ -8,7 +8,7 @@ A simple component for swaping two images on hover
 
 ##API
 
-`import { NgxImageSwapModule } from 'ngx-image-swap`
+`import { NgxImageSwapModule } from 'ngx-image-swap'`
 
 ##Running the example in local env
 * `npm i`
